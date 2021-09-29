@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">pro_app</string>
+    <string name="bifa_icon">bifa</string>
+    <string name="contacts_text">Contacte</string>
+    <string name="about_text">Despre</string>
+    <string name="main_scene_text">Acasa</string>
+    <string name="logo_app_1">Pro</string>
+    <string name="logo_app_2">App</string>
+    <string name="rezultat">Rezultat</string>
+    <string name="primul_numar">primul numar</string>
+    <string name="al_doilea_numar">al doilea numar</string>
+    <string name="plus">+</string>
+    <string name="product">*</string>
+    <string name="diferenta">-</string>
+    <string name="catul">/</string>
+    <string name="mod">mod</string>
+    <string name="calculator">Calculator</string>
+    <string name="calculeaz_v_rsta">Calculează Vărsta</string>
+    <string name="today">Data curenta</string>
+    <string name="date_of_birth">Data de nastere</string>
+    <string name="age">Varsta</string>
+    <string name="enter_your_birthday">Introdu DN</string>
+    <string name="calculate_age">Calculeaza varsta</string>
+
+</resources>
